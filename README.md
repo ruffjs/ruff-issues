@@ -14,7 +14,7 @@ Visit [ruff.io](https://ruff.io) for more information.
 
 
 
-If you have any issue using Ruff, regardless of bugs, feature requests, or incomprehensible phenomenon etc, feel free to create a issue in this repository.
+If you have any issue using Ruff, regardless of bugs, feature requests, or incomprehensible phenomenon etc, feel free to create an issue in this repository.
 
 
 
