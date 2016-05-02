@@ -1,6 +1,6 @@
 # Ruff Issues
 
-Ruff Issues is a issue collector for Ruff.
+Ruff Issues is an issue collector for Ruff.
 
 
 
